@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi👋,I'm Inamul Shaikh
 
-<!--
-**inamul10/inamul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Frontend developer from India
+Follow https://twitter.com/inamulshaikh20
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Angular** and **Laravel**
+- 🌱 I’m currently learning **NodeJS**
+- 👯 I’m looking to collaborate on **Web development** 
+- 🤔 I’m looking for help with **Backend development with NodeJS** 
+- 💬 Ask me about **Angular** and **Laravel**
+- 📫 How to reach me: inamulshaikh10@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
